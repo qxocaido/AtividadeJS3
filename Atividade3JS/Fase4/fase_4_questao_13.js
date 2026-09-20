@@ -5,3 +5,5 @@ function processar({ a, ...resto }) {
 }
 const r = processar(dados);
 console.log(dados.c, r[1].c);
+
+// 3 99

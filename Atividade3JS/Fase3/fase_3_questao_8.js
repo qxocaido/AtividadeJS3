@@ -3,3 +3,5 @@ function soma(a, b, ...resto) {
  return a + b + resto.length;
 }
 console.log(soma(...valores));
+
+//32

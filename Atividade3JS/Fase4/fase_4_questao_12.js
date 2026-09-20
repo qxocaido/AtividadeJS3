@@ -10,3 +10,5 @@ const obj = {
 };
 const { dados: { preferencias: { tema }, ...resto } } = obj;
 console.log(tema, resto);
+
+// "escuro" { nome: "Ana" }

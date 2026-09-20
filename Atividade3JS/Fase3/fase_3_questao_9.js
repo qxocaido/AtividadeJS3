@@ -4,3 +4,5 @@ const usuario = {
 };
 const { habilidades: [h1, , h3] } = usuario;
 console.log(h1, h3);
+
+//"JS" "SQL"

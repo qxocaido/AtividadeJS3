@@ -23,3 +23,5 @@ for(let i = 0; i < mapArr.length; i++){
 
 console.log(redArr);
 
+// 60
+
